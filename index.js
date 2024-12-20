@@ -2,26 +2,36 @@
 // ===========================>>Follow the instructions for each task and complete the code.<<=====================================
 
 // Task 1: Comment Your JavaScript Code
+    var myFirstName = "myFirstName"
+    var myFirstName = "el"
+    var myLastName = "myLastName"
+    var myLastName = "sary"
 // Write a single-line comment below this line:
-
+    /* it's use var for call something*/
 // Task 2: Declare JavaScript Variables
 // Declare a variable named `myName`:
-
+    var myName = "myName"
 // Task 3: Storing Values with the Assignment Operator
 // Assign the value "JavaScript" to a variable named `myLanguage`:
-
+    var x = "myLanguage"
 // Task 4: Assigning the Value of One Variable to Another
 // Declare a variable named `a` with the value 5, and another variable `b`. Assign `a` to `b`:
-
+    var a = 0;
+    var b = 5;
 // Task 5: Initializing Variables with the Assignment Operator
 // Declare and initialize a variable named `myAge` with the value 25:
-
+    var myAge = "25";
 // Task 6: Declare String Variables
 // Declare a string variable named `greeting` and set it to "Hello, World!":
 
 // Task 7: Understanding Uninitialized Variables
 // Declare three variables `x`, `y`, and `z` without assigning values. Then, assign values 1, 2, and 3 to them:
-
+    var x;
+    x = 1;
+    var y;
+    y = 2;
+    var z;
+    z = 3;
 // Task 8: Understanding Case Sensitivity in Variables
 // Fix the variable names to follow case sensitivity:
 // let StUdEnTnAmE = "John";
